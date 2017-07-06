@@ -16,7 +16,6 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.maps.android.geojson.GeoJsonLayer;
-// added to set style
 import com.google.maps.android.geojson.GeoJsonPolygonStyle;
 
 import org.json.JSONArray;
